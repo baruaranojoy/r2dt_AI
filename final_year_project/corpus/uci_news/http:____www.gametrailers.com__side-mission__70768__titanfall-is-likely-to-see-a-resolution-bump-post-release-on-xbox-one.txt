@@ -1,0 +1,2 @@
+Source :http://www.gametrailers.com/side-mission/70768/titanfall-is-likely-to-see-a-resolution-bump-post-release-on-xbox-one
+Content :[[getSimpleString(data.referenceUserText)]] 
